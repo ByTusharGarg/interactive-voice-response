@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+
+<response>
+
+<collectdtmf l="1" t="#" o="10000">
+
+<playtext>Enter 1 if your age is above 21 Enter 2 if your age is below</playtext>
+
+</collectdtmf>
+
+</response>
